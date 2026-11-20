@@ -12,6 +12,9 @@ venv/
 .env.*
 !.env.example
 
+node_modules/
+
+
 # Data (never commit raw/curated data)
 data/raw/*
 data/interim/*
